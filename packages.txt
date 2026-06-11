@@ -1,0 +1,2 @@
+# Paket sistem untuk Streamlit Cloud.
+# Saat ini aplikasi tidak membutuhkan paket tambahan khusus.

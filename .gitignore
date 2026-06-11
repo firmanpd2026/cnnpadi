@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.kaggle/
+
+# Dataset biasanya besar, jangan diupload ke GitHub.
+dataset/*
+!dataset/README.txt
+!dataset/.gitkeep
+
+# File arsip lokal
+*.zip
+*.rar
